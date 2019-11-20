@@ -35,7 +35,7 @@ const Footer = () => {
         </li>
       </ul>
       <p className="copyright">
-        &copy; Copyright 2019 Wafi Mohamed Designed by Jonas Schmedtmann.
+        &copy; Copyright 2019 Wafi Mohamed Designed by Jonas Schmedtmann!.
       </p>
     </footer>
   );
